@@ -1,0 +1,15 @@
+{
+  "name": "ellies-instagram-scraper",
+  "version": "1.0.0",
+  "description": "This is a bot that scrapes Instagram accounts to find influencers that meet Ellie's criteria.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Chopin",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "instagram-private-api": "^1.44.0"
+  }
+}
